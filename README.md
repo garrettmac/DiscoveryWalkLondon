@@ -1,0 +1,2 @@
+# DiscoveryWalkLondon
+This needs to sotre atlaeast 1gb of audio internally (so it needs to be in the raw or assets folder, if there isnt one then make one they need to be located in the res folder because you cant make R.raw.[filemane] files if they arent there) and files need to be placed in the "android device manager" under data/data under the package name "com.macmac.app", each song name should be stored in a string and displayed where the "secion #" are and play in the main fragment
